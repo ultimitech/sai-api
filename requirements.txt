@@ -1,0 +1,5 @@
+pandas==2.0.3
+openpyxl
+matplotlib
+ray==2.9.3
+fastapi==0.110.0
